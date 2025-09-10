@@ -1,1 +1,15 @@
 
+# VSCode
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# VM files
+*.iso
+*.vhd
+*.vhdx
+
+# Logs
+*.log
