@@ -1,20 +1,22 @@
 # Installing VMware Workstation
 
 ## Step 1: Download VMware
-Signup/Login to the Broadcom website and download VMware Workstation Player.
 
+1. Signup/Login to the Broadcom website
+2. download VMware Workstation Player.
 ![VMware Installer](../docs/screenshots/vmware-install.png)
 
 ## Step 2: Run the Installer
-Follow the setup wizard and install with default options.
+
+1. Follow the setup wizard 
+2. Install with default options.
 
 ## Step 3: Create a new VM
 
-Open VMware workstation
-Open new Project
-In new Virtual Machine Wizard setup:
+1. Open VMware workstation
+2. Open new Project
+3. In new Virtual Machine Wizard setup:
     - Click Install os later option
     - Select Windows Server Version downloaded
     - Leave default options for rest of setup
-
 ![VM Creation](../docs/screenshots/vm-creation.png)
