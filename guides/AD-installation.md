@@ -30,6 +30,7 @@
 ![OU Creation](../docs/screenshots/ou-creation.png)
 
 4. Create different OU's(Computer,Users,Servers) within the OU departments
+5. Repeat Process for "Europe" and "Asia"
 ![OU Creation](../docs/screenshots/ou-creation-2.png)
 
 ## Step 4: Creating Groups
