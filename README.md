@@ -6,4 +6,3 @@ Home lab: Installing Active Directory Domain Services on Windows Server (VM), st
 - `/scripts` → PowerShell scripts
 - `/docs/screenshots` → setup screenshots
 - `/labs` → notes and troubleshooting
-- `/templates` → task templates

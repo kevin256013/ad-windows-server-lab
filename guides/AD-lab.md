@@ -30,6 +30,7 @@
 ![OU Creation](../docs/screenshots/ou-creation.png)
 
 4. Create different OU's(Computer,Users,Servers) within the OU departments
+5. Repeat Process for "Europe" and "Asia"
 ![OU Creation](../docs/screenshots/ou-creation-2.png)
 
 ## Step 4: Creating Groups
@@ -44,6 +45,7 @@
     - Security(Control Permissions)
     - Distribution(Email Lists w/ no permissions)
 4. Click OK
+   
 ![Group Creation](../docs/screenshots/create-groups.png)
 ![Group Creation](../docs/screenshots/create-groups-2.png)
 ![Group Creation](../docs/screenshots/create-groups-3.png)
@@ -53,6 +55,7 @@
 1. Select a OU inside one of the OU Departments and select New -> User
 2. Fill in credentials of the new User and create password
 3. Click Finish
+   
 ![User Creation](../docs/screenshots/create-users.png)
 ![User Creation](../docs/screenshots/create-users-2.png)
 ![User Creation](../docs/screenshots/create-users-3.png)
