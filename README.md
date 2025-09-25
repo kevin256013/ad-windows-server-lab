@@ -24,8 +24,6 @@ Before you begin, ensure you have the following:
 
 - **Hardware**: A computer capable of running virtual machines with sufficient resources (CPU, RAM, storage).
 
-- **Network Configuration**: Ensure VMs are on the same virtual network for proper communication.
-
 ### Setup Instructions
 
 1. **Clone the Repository**:
