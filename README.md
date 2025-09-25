@@ -23,10 +23,7 @@ This repository provides a comprehensive guide to setting up and configuring Act
 Before you begin, ensure you have the following:
 
 - **Hardware**: A computer capable of running virtual machines with sufficient resources (CPU, RAM, storage).
-- **Software**:
-  - VMware Workstation or Hyper-V
-  - Windows Server ISO
-  - Windows 10/11 ISO
+
 - **Network Configuration**: Ensure VMs are on the same virtual network for proper communication.
 
 ### Setup Instructions
